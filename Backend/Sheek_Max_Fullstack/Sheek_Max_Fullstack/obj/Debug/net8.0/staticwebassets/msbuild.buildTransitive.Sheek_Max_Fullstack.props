@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sheek_Max_Fullstack.props" />
+</Project>
